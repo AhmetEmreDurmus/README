@@ -1,20 +1,15 @@
-# README
 # Ahmet Emre Durmuş
 
 Electrical & Electronics Engineering Student
 
-## Interests
-- Automation Systems
-- Industrial Digitalization
+Focused on:
 - Embedded Systems
+- Automation
+- Control Systems
+- Arduino & MATLAB Applications
 
-## Currently Learning
-- Arduino
-- MATLAB
-- C Programming
+Currently building engineering-focused projects and improving my software development skills.
 
-## Projects
-- Temperature Monitoring System
-- DC Motor PID Control
-- Automatic Light Control
-- Arduino-based PLC Logic
+## Tech Stack
+
+C • Arduino • MATLAB • Git • GitHub
